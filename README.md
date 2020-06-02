@@ -15,3 +15,6 @@
 * Other
   - Find piratebay proxies: 
     https://proxybay.github.io/
+  - Look for scientific articles 
+    https://www.researchgate.net/
+    
