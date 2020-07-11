@@ -3,6 +3,8 @@
 * HTML & CSS 
   - Marksheet, a free HTML & CSS tutorial:
     https://marksheet.io/
+  - The ultimate guide to Bootstrap:
+    http://www.webdesignerdepot.com/2014/10/the-ultimate-guide-to-bootstrap/
 
 * GitHub 
   - GitHub for beginners (2 parts tutorial): 
