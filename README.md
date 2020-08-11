@@ -17,6 +17,8 @@
 * Good practice 
   - Units and when to use them: 
     <https://www.w3.org/Style/Examples/007/units.en.html> 
+  - A script to make the window 320px wide on chrome (testing responsiveness for mobile layouts) 
+    <https://www.brianshim.com/webtricks/chrome-browser-window-that-you-can-make-narrow/#:~:text=With%20my%20Chrome%20browser%20on,Chrome%20browser%20window%20thin%20enough!>
 
 * Other
   - Find piratebay proxies: 
